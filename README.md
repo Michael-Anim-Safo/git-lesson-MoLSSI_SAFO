@@ -8,6 +8,6 @@ Science is knowing what
 3. create a checkpoint using git commit -m "what you did"
 
 ## How to push 
-git remote add origin https://github.com/Michael-Anim-Safo/git-lesson-MoLSSI_SAFO.git
-git branch -M main
-git push -u origin main
+1. git remote add origin https://github.com/Michael-Anim-Safo/git-lesson-MoLSSI_SAFO.git
+2. git branch -M main
+3. git push -u origin main
